@@ -18,6 +18,9 @@ const colorMap = {
     'a': 'pink',
     's': 'orange',
     'd': 'lightblue',
+    'q': 'purple',
+    'w': 'gray ',
+    'e': 'brown'
 }
 
 const paintElement = (id, color = currentSelectedColor) => {
